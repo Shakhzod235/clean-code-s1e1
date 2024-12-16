@@ -135,7 +135,7 @@ label[for="new-task"] {
 }
 
 /* Edit Task */
-input[type=text] {
+.list-item input[type=text] {
   display: none;
 }
 
